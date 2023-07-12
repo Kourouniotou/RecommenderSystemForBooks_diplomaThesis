@@ -1,5 +1,5 @@
 # RecommenderSystemForBooks_diplomaThesis
-This work investigates the creation of a non-personalized book recommendation system,
+This project investigates the creation of a non-personalized book recommendation system,
 utilizing the book description text for differentiation. 
 In particular, the development of this system is implemented using the Latent Dirichlet Allocation (LDA) model, 
 in order to discover thematic units hidden within the description texts. 
