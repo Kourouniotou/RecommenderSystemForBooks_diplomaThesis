@@ -10,6 +10,6 @@ the final recommendation. Finally, this whole process is organized in an easy-to
 him the possibility to make various kinds of searches in order to recommend books based on
 his wishes.
 
-Keywords: Recommender System, Latent Dirichlet Allocation, Jensen-Shannon distance, Topic Coherence, Word2vec Model
+Keywords: Recommender System, Latent Dirichlet Allocation, Jensen-Shannon distance, Topic Coherence, Word2vec Model
 
 Τhe data used and produced during the preparation of this work are stored at the link below https://uthnoc-my.sharepoint.com/:f:/g/personal/kourouniotou_o365_uth_gr/ErXSiu9gFl1NnWfFUIAJYVEBWQUMD1AZ4GwbnXsKBuJVOw
